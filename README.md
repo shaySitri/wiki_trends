@@ -53,13 +53,3 @@ This repository contains a Jupyter Notebook analyzing trends and patterns in Heb
 5. **🎌 Holiday Impact Analysis:** Assessing the influence of national holidays on Wikipedia activity.
 6. **📊 Visualization and Interpretation:** Presenting findings through various visualizations and summarizing key insights.
 
-## ⚡ Instructions
-
-1. 🛠️ Clone the repository.
-2. 📦 Install the required libraries listed in the notebook.
-3. ▶️ Run the Jupyter Notebook to explore the analysis and visualizations.
-
-**Note:** The notebook requires access to the original data sources, which may be restricted or require API keys.
-
-This research contributes to understanding the dynamic interplay between real-world events and online information consumption, highlighting the role of Hebrew Wikipedia as a reflection of public interest in Israel. 🌍
-
